@@ -1,1 +1,1 @@
-# Smart-voting-system
+The Smart Voting System through Facial Recognition is a secure and innovative voting application that ensures voter authenticity using facial recognition technology. This system uses Tkinter for the desktop GUI, MySQL for database management, and the Haar Cascade algorithm for real-time face detection. The goal of the project is to create a fraud-proof, efficient, and user-friendly voting system suitable for elections and surveys.
